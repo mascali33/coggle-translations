@@ -20,11 +20,11 @@
 <index-signupnow "Inscrivez-vous maintenant">
 <index-login "Déjà inscrit ? Connectez-vous.">
 
-<index-nav-login "Login">
-<index-nav-pricing "Pricing">
-<index-nav-features "Features">
-<index-nav-gallery "Gallery">
-<index-nav-home "Home">
+<index-nav-login "Connection">
+<index-nav-pricing "Tarifs">
+<index-nav-features "Fonctionnalités">
+<index-nav-gallery "Gallerie">
+<index-nav-home "Accueil">
 
 <index-unleash "Déchaînez votre créativité">
 <index-blurb "Produisez de magnifiques notes, rapidement et simplement. Partagez-les avec vos amis et vos collègues afin d'améliorer collaborativement vos idées.">
@@ -65,7 +65,7 @@
   <a>Inscrivez-vous maintenant<div>À partir de 8$ par membre et par mois</div></a>
 """>
 
-<features-realtime "Realtime Collaboration">
+<features-realtime "Collaboration en temps réel">
 <features-realtime-desc "Nous travaillons souvent mieux en équipe, et les équipes opèrent plus efficacement lorsqu'elles peuvent collaborer librement. Coggle vous laisse inviter vos amis et vos collègues à travailler avec vous, en même temps, sur vos diagrammes.">
 
 <features-images-title "Complétez le tableau">
@@ -74,23 +74,23 @@
 <features-fullhistory-title "Sauvegarde chaque changement">
 <features-history "Vous avez modifié un document, seulement pour vous apercevoir un jour plus tard que vous n'aimez pas ces changements ? Avec Coggle, ce n'est pas un souci. Entrez simplement dans le mode historique afin de trouver la bonne version, et faites une copie partant de ce point !">
 
-<features-labels-title "Add Floating Text and Images">
-<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
+<features-labels-title "Ajoutez des images et des textes flottants">
+<features-labels "Ajoutez des étiquettes de texte et des images qui ne font pas partie de l'arbre du diagramme pour annoter des parties de votre carte.">
 
 <features-blame-title "Suivez les responsabilités">
 <features-blame "Vous-êtes vous déjà demandé qui avait réalisé ces modifications sur un document partagé ? Avec Coggle, vous pouvez regarder dans l'historique de vos diagrammes pour voir qui a changé ça, et quand ! Entrez juste dans le mode historique de votre diagramme pour le savoir.">
 
-<awesome-feature-multiroot-title "Multiple Starting Points">
-<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+<awesome-feature-multiroot-title "Points de Départs Multiples">
+<awesome-feature-multiroot "Ajoutez plusieurs items centraux à vos diagrammes pour mapper des sujets reliés dans un seul espace de travail.">
 
 <features-colours-title "Mettez-y des couleurs">
 <features-colours "Pensez-vous visuellement ? Apprenez-vous par mise en page et par couleurs ? Dans ce cas, soyez certains de choisir la bonne couleur pour vos sujets. Un seul clic sur un bouton suffit pour faire apparaître la roue des couleurs et sélectionner la couleur de votre choix.">
 
-<features-notifications-title "Email Notifications">
-<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
+<features-notifications-title "Notifications Emails">
+<features-notifications "Recevez une notification avec un résumé des changements quand vos collaborateurs éditent les diagrammes partagés avec vous.">
 
-<features-chat-title "Comments and Chat">
-<features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
+<features-chat-title Commentez et Chattez">
+<features-chat "Ajouter des commentaire sur les noeuds et dans le chat avec des collaborateurs sans quitter l'espace de travail de votre diagramme.">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
